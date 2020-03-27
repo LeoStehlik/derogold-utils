@@ -1,7 +1,7 @@
 {
-  "name": "turtlecoin-utils",
+  "name": "derogold-utils",
   "version": "2.0.0",
-  "description": "A Node.js collection of utilities useful for TurtleCoin developers",
+  "description": "A Node.js collection of utilities useful for DeroGold developers",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
